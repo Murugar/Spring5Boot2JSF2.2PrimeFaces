@@ -1,0 +1,9 @@
+body {
+	font-size: 12px;
+}
+
+.panelOne {
+	height: 100px
+	color: white
+	background: blue
+}
